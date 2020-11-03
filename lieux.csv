@@ -1,4 +1,4 @@
-iata,airport,city,state,country,lat,long
+libelle,type,date_construction,siecle,pays,lat,long
 Veillane,Château,924,10,Italie,45.2077778,7.484166666666667
 Chinon,Château,954,10,France,47.15311538292504,0.25259060329858585
 Esch-sur-Sûre,Château,927,10,Luxembourg,49.9111111,5.934722222222223
