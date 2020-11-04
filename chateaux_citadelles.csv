@@ -1,4 +1,4 @@
-nom,type,date_construction,siecle,pays,lat_dms,long_dms,Lat,Long
+nom,type,date_construction,siecle,pays,lat_dms,long_dms,lat,long
 Veillane,Château,924,10,Italie,45.04508,7.23363,45.0805556,7.3933333333333335
 Chinon,Château,954,10,France,47.1005,0.1410,47.15311538292504,0.25259060329858585
 Esch-sur-Sûre,Château,927,10,Luxembourg,49.5440,5.5605,49.9111111,5.934722222222223
