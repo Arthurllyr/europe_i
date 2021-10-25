@@ -1,4 +1,4 @@
-nom,lieu_actuel,date,pays,adresse,lat,long
+nom,lieu_actuel,date,pays,adresse,latitude,longitude
 Héraclite,Éphèse,-576,Turquie,"Éphèse, Turquie",37.9411654,27.3409867
 Xénophon,Sparta-Artémis,-430,Grèce,"Sparta-Artémis, Grèce",37.074461,22.430264
 Gérard d’Aboville,Paris,1945,France,"Paris, France",48.856614,2.3522219
@@ -69,7 +69,7 @@ André Chénier,Istanbul,1762,Turquie,"Istanbul, Turquie",41.0082376,28.9783589
 Gilbert K. Chesterton,Londres,1874,UK,"Londres , UK",51.5073509,-0.1277583
 Taras Chevtchenko,Moryntsi,1814,Ukraine,"Moryntsi , Ukraine",49.2578734,30.9981686
 Cicéron,Arpino,-106,Italie,"Arpino, Italie",41.6492543,13.6246954
-Emil Cioran,Rășinari,1911,Roumanie,"Rășinari, Roumanie",45.7089611,24.0650356
+Emil Cioran,Ra?inari,1911,Roumanie,"Ra?inari, Roumanie",45.7089611,24.0650356
 Jean Clair,Paris 6,1940,France,"Paris 6, France",48.8481072,2.3279439
 Bernard de Clairvaux,Fontaine-lès-Dijon,1090,France,"Fontaine-lès-Dijon, France",47.34985,5.022149
 Paul Claudel,illeneuve-sur-Fère,1868,France,"illeneuve-sur-Fère, France",49.177522,3.473478
@@ -146,7 +146,7 @@ Horace,Vénouse,-65,Italie,"Vénouse , Italie",40.9607672,15.815423
 Michel Houellebecq,Saint-Pierre,1956,"France, la Réunion","Saint-Pierre, France, la Réunion",-21.3222914,55.5025595
 Victor Hugo,Besançon,1802,France,"Besançon, France",47.237829,6.024053899999999
 Jean-René Huguenin,Paris,1936,France,"Paris, France",48.856614,2.3522219
-Edmund Husserl,Prostějov,1859,Tchéquie,"Prostějov, Tchéquie",49.4724489,17.1067513
+Edmund Husserl,Prostejov,1859,Tchéquie,"Prostejov, Tchéquie",49.4724489,17.1067513
 Joris-Karl Huysmans,Paris,1848,France,"Paris, France",48.856614,2.3522219
 Arnaud Imatz,Bayonne,1948,France,"Bayonne , France",43.492949,-1.474841
 François Jacques,Bourges,1946,France,"Bourges , France",47.081012,2.398782
@@ -162,7 +162,7 @@ Rudyard Kipling,Bombay,1865,Inde,"Bombay, Inde",19.0759837,72.8776559
 Erik L’Homme,Grenoble,1967,France,"Grenoble, France",45.188529,5.724524
 Étienne de La Boétie,Sarlat-la-Canéda,1530,France,"Sarlat-la-Canéda, France",44.890891,1.217292
 Henri de La Rochejaquelein,Châtillon-sur-Sèvre,1772,France,"Châtillon-sur-Sèvre, France",46.922909,-0.750806
-Diogène Laërce,İznik,180,Turquie,"İznik, Turquie",40.429524,29.719743
+Diogène Laërce,Iznik,180,Turquie,"Iznik, Turquie",40.429524,29.719743
 Georges Laffly,Blida,1932,Algérie,"Blida , Algérie",36.4735715,2.8323153
 Eugen Guido Lammer,Rosenburg-Mol,1863,Autriche,"Rosenburg-Mol, Autriche",45.5154553,-73.5623129
 Sébastien Lapaque,Tübingen,1971,Allemagne,"Tübingen , Allemagne",48.5216364,9.0576448
@@ -175,7 +175,7 @@ Claude Lévi-Strauss,Bruxelles,1908,Belgique,"Bruxelles , Belgique",50.8503396,4
 Clive Staples Lewis,Belfast,1898,Irlande,"Belfast , Irlande",54.59728500000001,-5.93012
 Jack London,San Francisco,1876,USA,"San Francisco , USA",37.7749295,-122.4194155
 Albert Londres,Vichy,1884,France,"Vichy , France",46.131859,3.425488
-Hermann Löns,Chełmno,1866,Pologne,"Chełmno, Pologne",53.34842,18.4249899
+Hermann Löns,Chelmno,1866,Pologne,"Chelmno, Pologne",53.34842,18.4249899
 Konrad Lorenz,Vienne,1903,Autriche,"Vienne, Autriche",48.2081743,16.3738189
 Michael Löwy,São Paulo,1938,Brésil,"São Paulo, Brésil",-23.5557714,-46.6395571
 Bernard Lugan,Meknès,1946,Maroc,"Meknès, Maroc",33.8730164,-5.5407299
@@ -226,7 +226,7 @@ Louis Pauwels,Paris,1920,France,"Paris, France",48.856614,2.3522219
 Patrick Pearse,Dublin,1879,Irlande,"Dublin, Irlande",53.3498053,-6.2603097
 Charles Péguy,Orléans,1873,France,"Orléans , France",47.902964,1.909251
 Régine Pernoud,Château-Chinon,1909,France,"Château-Chinon, France",47.0569552,3.9244916
-François Perroux,Saint-​Romain-en-Gal,1903,France,"Saint-​Romain-en-Gal, France",45.5339179,4.8618349
+François Perroux,Saint-?Romain-en-Gal,1903,France,"Saint-?Romain-en-Gal, France",45.5339179,4.8618349
 Fernando Pessoa,Lisbonne,1888,Portugal,"Lisbonne, Portugal",38.7222524,-9.1393366
 Pindare,Thèbes,-518,Grèce,"Thèbes, Grèce",38.322579,23.3204309
 Platon,Athènes,-428,Grèce,"Athènes, Grèce",37.9838096,23.7275388
